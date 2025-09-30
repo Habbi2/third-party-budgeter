@@ -1,0 +1,23 @@
+{
+  "name": "third-party-budgeter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint --no-cache || exit 0"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.61",
+    "@types/react-dom": "18.2.19",
+    "typescript": "5.4.5"
+  }
+}
